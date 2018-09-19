@@ -1,7 +1,7 @@
 # CSS Flexbox Essentials Lab
 
-In this lab we’re going to get practice writing the HTML and CSS necessary to
-create a basic flexbox.
+In this lab we’re going practice writing the HTML and CSS necessary to create a
+basic flexbox.
 
 ## Objectives
 
