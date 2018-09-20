@@ -224,7 +224,7 @@ describe('index.css', () => {
 			expect(
 				css,
 				'.headerContainer does not have flex-direction set to column-reverse'
-			).to.match(/\.headerContainer {[\S\s]*flex-direction: column;[\S\s]*}/);
+			).to.match(/\.headerContainer {[\S\s]*flex-direction: column-reverse;[\S\s]*}/);
 		});
 
 		it('.headerContainer has the flex-wrap property set to wrap', () => {
